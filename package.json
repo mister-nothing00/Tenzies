@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/mister-nothing00/Tenzies",
-  "name": "notes--app",
+  "name": "tenzies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
